@@ -2,13 +2,13 @@
 
 WhyBuy is a transparent, solo-built project that helps everyday people understand what they’re buying and why — without jargon, noise, or manipulation.
 
-It's a site that explains product features, real-world value, and whether something is actually worth the price — one category at a time.
+It's a site that explains product features, real-world value, and whether something is actually worth the price.
 
 ---
 
 ## ✍️ Who Made This?
 
-This project is being built by one currently unemployed person who just wants to make something genuinely useful — and help others make smarter buying decisions.
+This project is being built by one currently unemployed person who just wants to make something genuinely useful and help others make smarter buying decisions.
 
 ---
 
@@ -16,8 +16,7 @@ This project is being built by one currently unemployed person who just wants to
 
 - Explain every product category clearly  
 - Help users quickly understand what matters  
-- No tracking, no accounts, no fake reviews — just value
-- No login, forms, cookies or any type of saved data from the user
+- No tracking, no accounts, no fake reviews, no login, no forms, no cookies or any type of saved data from the user
 - Stay independent and useful
 
 ---
