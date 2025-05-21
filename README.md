@@ -4,6 +4,8 @@ WhyBuy is a transparent, solo-built project that helps everyday people understan
 
 It's a site that explains product features, real-world value, and whether something is actually worth the price.
 
+🌐 **Live Website**: [https://phelpsyt.github.io/whybuy](https://phelpsyt.github.io/whybuy)
+
 ---
 
 ## ✍️ Who Made This?
