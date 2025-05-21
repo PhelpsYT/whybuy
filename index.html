@@ -2,29 +2,71 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>WhyBuy</title>
   <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
 </head>
 <body>
   <header>
-    <h1>WhyBuy</h1>
-    <p class="tagline">Understand what you buy before you buy it</p>
+    <div class="container">
+      <h1>WHYBUY</h1>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">Categories</a>
+        <a href="#">About</a>
+        <a href="#"><span class="search-icon">🔍</span></a>
+      </nav>
+    </div>
   </header>
 
-  <section class="search">
-    <input type="text" placeholder="Search products or categories..." id="searchBox"/>
-  </section>
+  <main>
+    <section class="hero">
+      <h2>Buying Advice for Everything You Need</h2>
+      <p>Find information on features and important factors to consider across a broad selection of products.</p>
+      <button>Explore Categories</button>
+    </section>
 
-  <section class="categories">
-    <div class="card">📺 TVs</div>
-    <div class="card">📱 Phones</div>
-    <div class="card">💇 Hair Dryers</div>
-    <div class="card">🧺 Washing Machines</div>
-    <div class="card">🖥 Monitors</div>
-    <!-- You can add more cards later -->
-  </section>
-
-  <script src="main.js"></script>
+    <section class="categories">
+      <div class="grid">
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=TV" alt="TV">
+          <p>Televisions</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Phone" alt="Smartphone">
+          <p>Smartphones</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Laptop" alt="Laptop">
+          <p>Laptops</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Washer" alt="Refrigerator">
+          <p>Refrigerators</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Headphones" alt="Headphones">
+          <p>Headphones</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Vacuum" alt="Vacuum Cleaners">
+          <p>Vacuum Cleaners</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Tablet" alt="Tablets">
+          <p>Tablets</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Microwave" alt="Microwaves">
+          <p>Microwaves</p>
+        </div>
+        <div class="card">
+          <img src="https://via.placeholder.com/150?text=Camera" alt="Cameras">
+          <p>Cameras</p>
+        </div>
+      </div>
+    </section>
+  </main>
 </body>
 </html>
